@@ -1,0 +1,1 @@
+var json_lovni_turizam_IM_21 = {"type":"FeatureCollection","name":"lovni_turizam_IM_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","naziv":"Lovni turizam"},"geometry":{"type":"Point","coordinates":[17.225611391169988,43.451449603868639]}}]}

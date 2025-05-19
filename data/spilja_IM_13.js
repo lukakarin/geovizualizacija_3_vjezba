@@ -1,0 +1,1 @@
+var json_spilja_IM_13 = {"type":"FeatureCollection","name":"spilja_IM_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"naziv":"Spilja"},"geometry":{"type":"Point","coordinates":[17.213199356545633,43.449500722070034]}}]}

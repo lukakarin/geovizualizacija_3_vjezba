@@ -1,0 +1,1 @@
+var json_autobusni_kolodvor_IM_15 = {"type":"FeatureCollection","name":"autobusni_kolodvor_IM_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[17.221092999790184,43.445762445031576]}}]}

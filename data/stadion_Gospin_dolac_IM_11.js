@@ -1,0 +1,1 @@
+var json_stadion_Gospin_dolac_IM_11 = {"type":"FeatureCollection","name":"stadion_Gospin_dolac_IM_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[17.214964269803502,43.449502198607831]}}]}
